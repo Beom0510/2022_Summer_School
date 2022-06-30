@@ -82,7 +82,7 @@ List
 
 
 Code Block Method 1 
-  <pre><code> {code} </code></pre> 이용방법
+ <pre><code> {code} </code></pre> 이용방법
   <pre>
   <code>
   class Car {

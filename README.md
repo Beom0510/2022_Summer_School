@@ -82,7 +82,7 @@ List
 
 
 Code Block Method 1 
-<pre><code> {code} </code></pre> 이용방법
+# 이용방법
   
     <pre>
     <code>
@@ -103,6 +103,23 @@ Code Block Method 1 
     }
    </code>
    </pre>
+
+
+## “ ‘ ‘ ‘ “ 이용
+
+       ```
+       import React from 'react';
+
+       function MyComponent(props) {
+        if (props.isBar) {
+         return <div>Bar</div>;
+        }
+
+        return <div>Foo</div>;
+       }
+      
+       export default MyComponent;
+       ```
 
 
 

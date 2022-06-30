@@ -81,6 +81,8 @@ List
       print('1 - 100 까지 짝수 합 : {0}, 홀수 합 : {1}' .format(e_tot,o_tot)}
 
 
+Code Block Method 1 
+  <pre><code> {code} </code></pre> 이용방법
   <pre>
   <code>
   class Car {

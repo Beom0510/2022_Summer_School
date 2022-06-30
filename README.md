@@ -1,8 +1,8 @@
 # 2022_Summer_School
 git hub 원격지 저장 활용 시험
-### git hub 원격지 저장 활용 시험
+## git hub 원격지 저장 활용 시험
 git hub test
-## 2022.06.29.(Wen.)
+### 2022.06.29.(Wen.)
 github 실습
 
 
@@ -30,15 +30,19 @@ github 실습
 3. 세번째
 
 순서가 없는 목록(글머리 기호 사용: *, +, - 사용)
-* Blue
-* Green
-* Red
-+ Blue
-+ Green
-+ Red
+
+* Blue-1
+ * Green-1
+  * Red-1
+
++ Blue-1
+ + Green-
+  + Red
+
 - Blue
-- Green
-- Red
+ - Green
+  - Red
+
 
 
 

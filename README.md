@@ -161,7 +161,7 @@ Google Link: [google][googlelink]
 
 // examle
 
-[Google](https://google.co.uk "Let's Go Google“)
+[Google](https://google.co.uk)
 
  
 *자동 링크

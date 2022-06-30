@@ -105,7 +105,7 @@ Code Block Method 1 
    </pre>
 
 
-## “ ‘ ‘ ‘ “ 이용
+## “ ‘ ‘ ‘ “ 이용
 
        ```
        import React from 'react';
@@ -120,6 +120,30 @@ Code Block Method 1 
       
        export default MyComponent;
        ```
+
+### Code Block Method 3
+
+     ``` js
+     import React from 'react';
+
+     function MyComponent(props) {
+      if (props.isBar) {
+       return <div>Bar</div>;
+      }
+
+      return <div>Foo</div>;
+     }
+
+    export default MyComponent;
+    ```
+
+#### Draw line
+
+  * * *
+  ***
+  *****
+  - - -
+  ---------------
 
 
 

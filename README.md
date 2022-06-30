@@ -32,15 +32,21 @@ github 실습
 순서가 없는 목록(글머리 기호 사용: *, +, - 사용)
 
 * Blue-1
+
  * Green-1
+  
   * Red-1
 
 + Blue-1
+
  + Green-
+
   + Red
 
 - Blue
+
  - Green
+
   - Red
 
 

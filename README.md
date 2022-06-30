@@ -33,21 +33,21 @@ github 실습
 
 * Blue-1
 
- * Green-1
+   * Green-1
   
-  * Red-1
+     * Red-1
 
 + Blue-1
 
- + Green-
+  + Green-
 
-  + Red
+    + Red
 
 - Blue
 
- - Green
+  - Green
 
-  - Red
+    - Red
 
 
 

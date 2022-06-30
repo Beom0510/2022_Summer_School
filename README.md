@@ -149,12 +149,19 @@ Code Block Method 1 
 ##### Link
 --------------
 *참조 링크
+
 // examle
 
 Google Link: [google][googlelink]
 
 [googlelink]: https://google.co.uk "Let's Go Google"
 
+
+*외부 링크
+
+// examle
+
+[Google](https://google.co.uk "Let's Go Google“)
 
  
 

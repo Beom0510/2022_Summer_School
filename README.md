@@ -187,5 +187,21 @@ Naver Homepage: <https://naver.com>
 취소선은 ~~물결표시(tilde)~~를 사용
 
 
+8. Images
+-------------
+
+![alt text](image url "image Title")
+
+// examle 1
+![Street](TestImage.jpg "aa")
+
+// examle 2
+Inline-style: 
+![alt text](https://raw.githubusercontent.com/Beom0510/2022_Summer_School/main/aa.jpg "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://raw.githubusercontent.com/Beom0510/2022_Summer_School/main/aa.jpg "Logo Title Text 2"
 
 

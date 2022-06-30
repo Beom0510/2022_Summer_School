@@ -22,3 +22,24 @@ github 실습
 > This is a first blockqute.
 > > This is a second blockqute.
 > > > This is a third blockqute.
+
+
+순서가 있는 목록(번호 사용)
+1. 첫번째
+2. 두번째
+3. 세번째
+
+순서가 없는 목록(글머리 기호 사용: *, +, - 사용)
+* Blue
+* Green
+* Red
++ Blue
++ Green
++ Red
+- Blue
+- Green
+- Red
+
+
+
+
